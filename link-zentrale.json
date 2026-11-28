@@ -1,0 +1,21 @@
+{
+  "beschreibung": "Räumt dein Android-Handy auf: Duplikate, Downloads, Datenmüll, Apps in Ordnern, WLAN-Passwörter, Akku – mit Google-KI.",
+  "tester_text": "Bitte besonders Duplikat-Suche und Download-Sortierung testen. Nach dem Start „Zugriff auf alle Dateien“ erlauben. Falls Play Protect blockiert: kurz ausschalten, installieren, wieder einschalten.",
+  "links": [
+    {
+      "name": "📘 Anleitung",
+      "url": "https://github.com/tinoknopp-rgb/HandyPutz-Updates#readme",
+      "info": "Installieren, Updates, KI-Schlüssel"
+    },
+    {
+      "name": "🔑 KI-Schlüssel holen",
+      "url": "https://aistudio.google.com/apikey",
+      "info": "Kostenlos, für die KI-Funktionen"
+    },
+    {
+      "name": "📜 Alle Versionen",
+      "url": "https://github.com/tinoknopp-rgb/HandyPutz-Updates/releases",
+      "info": "Ältere Versionen"
+    }
+  ]
+}
